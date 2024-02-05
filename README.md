@@ -1,6 +1,6 @@
-###Project 1 - CS325 Ethan Gardner
+Project 1 - CS325 Ethan Gardner
 
-##Description:
+Description:
 This is a Python program used to scrape and save articles from a given url.
 
 Steps to run my program.
