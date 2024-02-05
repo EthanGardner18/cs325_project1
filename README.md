@@ -24,4 +24,4 @@ Running the program
 
     1. Still in the command prompt type python main.py imput.txt
     2. This will create the 5 files
-    3. type cat "File Name" to see what was scraped and saved. 
+    3. type cat "File Name" to see what was scraped and saved
